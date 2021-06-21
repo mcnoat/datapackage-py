@@ -293,7 +293,7 @@ resource = Resource('dataresource.json')
 # Continue the work
 ```
 
-It was onle basic introduction to the `Resource` class. To learn more let's take a look on `Resource` class API reference.
+This was only a basic introduction to the `Resource` class. To learn more let's take a look at the `Resource` class API reference.
 
 ### Working with Group
 
